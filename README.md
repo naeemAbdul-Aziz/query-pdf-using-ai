@@ -1,4 +1,4 @@
-# PDF Query AI
+# Query PDF using AI
 
 This Python project allows users to extract text from a PDF and query an AI model using the extracted content. It utilizes `pdfminer.six` for text extraction and an AI API for generating responses.
 
@@ -17,8 +17,8 @@ This Python project allows users to extract text from a PDF and query an AI mode
 ## Setup & Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/pdf-query-ai.git
-   cd pdf-query-ai
+   git clone https://github.com/yourusername/query-pdf-using-ai.git
+   cd query-pdf-using-ai
    ```
 2. Install dependencies:
    ```sh
